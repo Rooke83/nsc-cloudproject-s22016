@@ -1,0 +1,10 @@
+Baldwin Browne Status Report
+
+I wrote how I thought the JSON retrieved from DocumentDB might look:
+
+{"id" : "01", "user" : "test_user", "tags" : [{"tag" : "animal"}, {"tag" : "dog"}, {"tag" : "pet"} ], "url" : "www.fakeURL.com" }
+
+Ian suggested using ports to limit a user's access to only things they have submitted. I will spend some time
+experimemting with that.
+
+No issues yet.
