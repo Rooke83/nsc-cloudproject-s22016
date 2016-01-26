@@ -1,0 +1,7 @@
+Baldwin Browne - Status Report
+
+This is my first report.
+
+I will research more into DocumentDB by the next status report.
+
+No issues yet.
