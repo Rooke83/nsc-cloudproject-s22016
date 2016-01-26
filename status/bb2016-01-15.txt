@@ -1,8 +1,0 @@
-Baldwin Browne Status Report
-
-I read up on the documentation for DocumentDB and played a little in the "Sandbox" on the DocumentDB website
-
-This weekend I would like to launch a small DocumentDB prototype, think up a schema, and explore
-how that would look in JSON format.
-
-No issues yet.
