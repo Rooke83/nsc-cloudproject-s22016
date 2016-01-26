@@ -1,0 +1,15 @@
+Baldwin Browne 
+Status Report
+2016.01.20
+
+What did you do since the last status report?
+
+I created a tornado server on an Azure ubuntu VM and am trying to figure out its ins and outs
+
+What would you like to accomplish by next status report?
+
+I still hope to create a small prototype for the blob storage using python.
+
+Any issues?
+
+Creating a tornado VM was a little trickier than I thought it was going to be.
