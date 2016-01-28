@@ -1,0 +1,15 @@
+Baldwin Browne 
+Status Report
+2016.01.27
+
+What did you do since the last status report?
+
+I have not done a whole lot since meeting my with my team on Tuesday due to not having much time.
+
+What would you like to accomplish by next status report?
+
+I want to look into the Flask web framework and spin up a small prototype server.
+
+Any issues?
+
+No issues at the moment.
