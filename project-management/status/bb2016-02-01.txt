@@ -1,0 +1,16 @@
+Baldwin Browne 
+Status Report
+2016.02.01
+
+What did you do since the last status report?
+
+I created a small flask server on Azure that serves a non-static webpage from a python script.
+
+What would you like to accomplish by next status report?
+
+I would like to make a few scripts that use Python's Azure libraries.
+
+Any issues?
+
+Flask servers are a little complicated, but I am gaining a better understanding of how to arrange
+a project.
