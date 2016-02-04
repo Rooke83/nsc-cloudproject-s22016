@@ -1,0 +1,17 @@
+Baldwin Browne 
+Status Report
+2016.02.01
+
+What did you do since the last status report?
+
+I created a tiny website on the flask server that uses a python script to render html templates.
+I also wrote a small guide to creating a flask server for my group.
+
+What would you like to accomplish by next status report?
+
+I would like to incorporate some of my groups python code and and create small prototype of the
+web app.
+
+Any issues?
+
+Not enough time.
