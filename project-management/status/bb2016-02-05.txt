@@ -1,0 +1,17 @@
+Baldwin Browne 
+Status Report
+2016.02.05
+
+What did you do since the last status report?
+
+I have not gotten much done since the last status report due to time constraints. I should
+be able to put some more work into it this weekend.
+
+What would you like to accomplish by next status report?
+
+I would like to incorporate some of my groups python code and and create small prototype of the
+web app.
+
+Any issues?
+
+Not enough time.
