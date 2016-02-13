@@ -1,0 +1,17 @@
+Baldwin Browne 
+Status Report
+2016.02.12
+
+What did you do since the last status report?
+
+My group met in classs and talked about the various pieces of the project we have been working on.
+I done some research into how it would all fit together. I have also started to implement OAuth
+on my own VM.
+
+What would you like to accomplish by next status report?
+
+I would like to keep incorporating my groups work into my own prototype.
+
+Any issues?
+
+Not enough time.
