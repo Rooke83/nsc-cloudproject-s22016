@@ -1,0 +1,18 @@
+Baldwin Browne 
+Status Report
+2016.02.15
+
+What did you do since the last status report?
+
+Worked with my group to bring some of our pieces together. I also worked on
+creating JSON strings with Flask.
+
+What would you like to accomplish by next status report?
+
+I think now we can start intergrating stuff with other teams. There are also
+security features that Toddy recommended that I would like to research.
+
+Any issues?
+
+Flask servers can be difficult.  I have been dealing with a lot of 500 server
+errors.
