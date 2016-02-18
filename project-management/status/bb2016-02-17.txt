@@ -1,0 +1,15 @@
+Baldwin Browne 
+Status Report
+2016.02.17
+
+What did you do since the last status report?
+
+Met with m group to discuss what is need to finish the API.
+
+What would you like to accomplish by next status report?
+
+I would like to learn more about hiding info in GET requests.
+
+Any issues?
+
+No major issues.
