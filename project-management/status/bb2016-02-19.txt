@@ -1,0 +1,17 @@
+Baldwin Browne 
+Status Report
+2016.02.19
+
+What did you do since the last status report?
+
+I have read through some of the pages Toddy shared with ian about encryption and
+hiding info over GET protocal.
+
+What would you like to accomplish by next status report?
+
+I would like update my server with the code RJ has worked on and start implementing
+some of the things I have researched.
+
+Any issues?
+
+No major issues.
