@@ -1,0 +1,18 @@
+Baldwin Browne 
+Status Report
+2016.03.7
+
+What did you do since the last status report?
+
+I redid my BASH script. Now instead of generating all of the project files
+from the script, I bundle it with a zip file that contains my groups code.
+
+What would you like to accomplish by next status report?
+
+I would like to meet with my group to show them my progress and ensure that
+I have the most up to date version of the project code.
+
+Any issues?
+
+Servers created from the script are still encountering 500 internal server
+errors.
