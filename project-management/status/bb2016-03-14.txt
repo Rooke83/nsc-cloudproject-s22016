@@ -1,0 +1,15 @@
+Baldwin Browne 
+Status Report
+2016.03.14
+
+What did you do since the last status report?
+
+I am still bundling a tar ball of my groups code with my Bash script.
+
+What would you like to accomplish by next status report?
+
+More debugging. Maybe share some of the issues I am having with my team.
+
+Any issues?
+
+I am getting internal server errors that trace back way into the python libraries.
